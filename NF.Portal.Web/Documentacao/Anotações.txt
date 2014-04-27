@@ -1,0 +1,11 @@
+URL do projeto: http://nfportal.com.azurewebsites.net/
+
+NF.Portal.Dominio - Class Libary(se relaciona com NF.Portal.Web)
+
+Dominio - Entidade
+
+NF.Portal.Web - ASP .NET MVC5()
+
+NF.Portal.UnitTest(se relaciona NF.Portal.Web e NF.Portal.Dominio)
+
+https://github.com/danielsales/NF.git
